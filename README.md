@@ -1,2 +1,2 @@
 # lineBot
-ＬineBotを作成する
+ineBotを作成する
